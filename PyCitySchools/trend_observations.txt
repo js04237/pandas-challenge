@@ -1,0 +1,5 @@
+General Trend Observations from the Py City School Data.
+
+The Charter Schools included in the dataset have a lower per student cost and have better overall scores and passing rates than the District Schools included in the dataset.  While District Schools typically have significantly higher student populations than Charter Schools and larger schools tend to perform worse than smaller schools, more data is required to explore these differences further.
+
+It is interesting that a 3 point difference in the average reading scores between Charter and District schools translates to a > 15% difference in the amount of students passing reading standards.  Also, a 6.5 point different in the average math scores between Charter and District schools translates to a > 27% difference in the amount of students passing math standards.
